@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from typing import List
 
 API_KEY = "ak_gvb4gtg6k10167a1r4gya9br"
-EMAIL = "23f3000908@study.iitm.ac.in"
+EMAIL = "23f3000908@ds.study.iitm.ac.in"
 
 app = FastAPI()
 
